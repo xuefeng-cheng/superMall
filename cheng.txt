@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 我在master分支
-=======
-我在cheng分支
->>>>>>> cheng
